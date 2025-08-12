@@ -5,7 +5,7 @@ function Body() {
   return (
     <div style={{backgroundColor: "lightcoral", flex: 1, width: "100%", height: "100vh", padding: "50px", textAlign: "center", alignItems: "center"}}>
         <img src="src/assets/vacation.jpg" style={{borderRadius: "8px"}}/>
-        <p>The places to go for an sweet vacation</p>
+        <p>The places to go for an sweet vacations</p>
 
         <div style={{display: "flex", width: "100%", height: "100px", justifyContent: "center", alignContent: "center"}}>
             <Square name="Square 1" image="src/assets/island.jpg" />
