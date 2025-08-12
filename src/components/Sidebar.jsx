@@ -12,7 +12,7 @@ function Sidebar() {
         <h3>Choose a Color:</h3>
         <ul style={{listStyle: "none", padding: 0}}>
             <li onClick={() => colorClick("lightblue")} style=       {{cursor: "pointer", marginBottom: "10px"}}>
-                Light Blue
+                Light Blues
             </li>
             <li onClick={() => colorClick("blue")} style=       {{cursor: "pointer", marginBottom: "10px"}}>
                 Blue
